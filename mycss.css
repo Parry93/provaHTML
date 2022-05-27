@@ -1,0 +1,30 @@
+    .red,
+    h2 {
+        text-align: center;
+        color: white;
+        background-color: black;
+        padding: 15px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    
+    span {
+        background-color: yellow;
+        color: black;
+    }
+    
+    caption {
+        color: aqua;
+        background-color: chocolate;
+    }
+    
+    p {
+        color: black;
+    }
+    
+    html {
+        background-color: blue;
+    }
+    
+    a {
+        color: red
+    }
